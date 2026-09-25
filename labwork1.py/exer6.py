@@ -1,0 +1,8 @@
+range1 = range(0,7)
+print([ i for i in range1])
+range2 = range(1, 13, 3)
+print([ i for i in range2])
+range3 = range(5, 0, -1)
+print([ i for i in range3])
+range4 = range(6, -4, -2)
+print([ i for i in range4])
